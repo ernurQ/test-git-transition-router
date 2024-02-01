@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test-git-transition-router/static/css/main.3dc1cb72.css",
+    "main.js": "/test-git-transition-router/static/js/main.3224b947.js",
+    "index.html": "/test-git-transition-router/index.html",
+    "main.3dc1cb72.css.map": "/test-git-transition-router/static/css/main.3dc1cb72.css.map",
+    "main.3224b947.js.map": "/test-git-transition-router/static/js/main.3224b947.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3dc1cb72.css",
+    "static/js/main.3224b947.js"
+  ]
+}
